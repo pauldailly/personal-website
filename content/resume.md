@@ -6,4 +6,4 @@ tags = []
 title = "Resume"
 
 +++
-Resume coming soon!
+Resume coming soon...
