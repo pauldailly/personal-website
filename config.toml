@@ -1,0 +1,22 @@
+baseURL = "http://pauldailly.com/"
+languageCode = "en-ie"
+title = "Paul Dailly"
+
+theme = "hugo-sustain"
+[params]
+  avatar = "profile.png"
+  author = "Paul Dailly"
+  description = "The personal website of Paul Dailly"
+
+[params.social]
+  Github        = "pauldailly"
+  Email         = "paul@pauldailly.com"
+  Twitter       = "paul_dailly"
+  LinkedIn      = "paul-dailly"
+  Stackoverflow = "paul-dailly"
+
+[[menu.main]]
+  name = "resume"
+  weight = 5
+  identifier = "resume"
+  url = "/resume"
