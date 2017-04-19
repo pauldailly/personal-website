@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://pauldailly.github.io/personal-website/resume/</loc>
+    <loc>http://pauldailly.com/resume/</loc>
     <lastmod>2017-04-17T20:19:05+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pauldailly.github.io/personal-website/categories/</loc>
+    <loc>http://pauldailly.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pauldailly.github.io/personal-website/</loc>
+    <loc>http://pauldailly.com/</loc>
     <lastmod>2017-04-17T20:19:05+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pauldailly.github.io/personal-website/tags/</loc>
+    <loc>http://pauldailly.com/tags/</loc>
     <priority>0</priority>
   </url>
   

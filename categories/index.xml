@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Paul Dailly</title>
-    <link>https://pauldailly.github.io/personal-website/categories/</link>
+    <link>http://pauldailly.com/categories/</link>
     <description>Recent content in Categories on Paul Dailly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ie</language>
     
-	<atom:link href="https://pauldailly.github.io/personal-website/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pauldailly.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
